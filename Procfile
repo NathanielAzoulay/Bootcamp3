@@ -1,0 +1,1 @@
+web:npm run initdb && npm run dev
